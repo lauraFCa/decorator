@@ -11,4 +11,4 @@ Quando concatenada mais de uma classe vai se tornando uma "lista encadeada"
 Pode ter planos Controle, Pré-pago, etc.  
 Esses planos podem, ou não, ter adicionais como chamada internacional, whatsapp ilimitado e internet (5g).
 
-![Diagrama de classes](decorator.png)
+![Diagrama de classes](decoratorDiagram.png)
